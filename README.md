@@ -15,7 +15,6 @@ To run the ResNet model for bacterial colony count prediction, follow these step
 2. **Python Installation:** Ensure that you have Python installed on your system.
 3. **Install Dependencies:** Install the required Python packages listed in the `requirements.txt` file using `pip install -r requirements.txt`.
 4. **Download Dataset:** Obtain the dataset containing images of bacterial colonies and their corresponding colony counts.
-5. **Execute the Script:** Run the provided Python script `resnet_colony_count.py` to train the ResNet model and make predictions.
 
 ## How to Use
 
